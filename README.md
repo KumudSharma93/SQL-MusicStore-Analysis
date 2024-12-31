@@ -46,7 +46,7 @@ The key objectives of this study include:
 - **Database Schema**:  
   - The project uses the following database schema:  
 
-    ![Database Schema](images/database-schema.png)
+  ![Database Schema](database-schema.png)
 
 ---
 
